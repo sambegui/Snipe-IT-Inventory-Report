@@ -15,3 +15,6 @@ The program generates output in the following sections:
 * Physical - MacOS - Platform Type 2
 * Physical - WinOS Platform Type 1
 * Physical - WinOS Platform Type 2
+
+## Example
+![SCR-20230227-3gt](https://user-images.githubusercontent.com/125210256/221501072-a09dca5b-ab20-4ed3-a1f2-0d94c63dda74.png)
